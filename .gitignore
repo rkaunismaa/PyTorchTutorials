@@ -1,1 +1,7 @@
 .ipynb_checkpoints/
+data/
+model/
+Image and Video/fbdeit_optimized_scripted_quantized.pt
+Image and Video/fbdeit_optimized_scripted_quantized_lite.ptl
+Image and Video/fbdeit_scripted.pt
+Image and Video/fbdeit_scripted_quantized.pt
