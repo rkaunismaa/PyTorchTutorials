@@ -7,3 +7,6 @@ Image and Video/fbdeit_scripted.pt
 Image and Video/fbdeit_scripted_quantized.pt
 
 *.pth
+
+ReinforcementLearning/checkpoints/
+
